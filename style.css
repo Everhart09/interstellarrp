@@ -232,6 +232,10 @@ footer {
     display: none;
   }
 
+   .mitems {
+    display: none;
+  }
+
   .nav2 {
     display: flex;
     align-items: center;
